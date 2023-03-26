@@ -10,8 +10,6 @@
 
 ## Lainnya
 
-- Bahasa yang dipakai untuk kode program Analisis Algoritma dibebaskan.
-- Penilaian akan dihitung dari waktu terakhir commit sebelum deadline.
 - Untuk hal lainnya silakan kontak asisten praktikum
 
 ## Lisensi
